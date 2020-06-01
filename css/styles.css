@@ -1,0 +1,64 @@
+body {
+  font-family: 'Monserrat', sans-serif;
+}
+
+/* Fonts presets */
+.font_title_white {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+/*  Containers */
+.aside_container {
+}
+
+.contacts_container {
+  background: #1e2939;
+  width: 400px;
+  height: 100px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/*Tech Skills*/
+.tech-skills_container {
+  background: #1e2939;
+  width: 400px;
+  height: 250px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.skills_ul_items_style {
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/*Soft Skills*/
+.soft-skills_container {
+  background: #1e2939;
+  width: 400px;
+  height: 300px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/*About me container*/
+.about-me_container {
+}
+
+/*Projects container*/
+.projects_container {
+}
+
+/*Work container*/
+.work_kontainer {
+}
+
+/*Education container*/
+.education_container {
+}
